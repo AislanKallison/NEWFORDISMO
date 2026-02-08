@@ -2,7 +2,7 @@ import pyautogui
 import time
 
 # pegar posição do mouse e da tela 
-time.sleep(5)
+time.sleep(4)
 print(pyautogui.position())  
 
 

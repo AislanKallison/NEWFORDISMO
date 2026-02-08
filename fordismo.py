@@ -6,7 +6,7 @@ print(pyautogui.position())
 print(pyautogui.size()) 
 
 # funções do mouse  
-time.sleep(5)  # tempo para o usuário posicionar o mouse
+time.sleep(4)  # tempo para o usuário posicionar o mouse
 # clique do mouse
 pyautogui.click(x=1680, y=180)  
 
