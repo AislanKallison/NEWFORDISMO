@@ -1,0 +1,17 @@
+import pyautogui 
+import time
+
+# pegar posição do mouse e da tela
+print(pyautogui.position())  
+print(pyautogui.size()) 
+
+# funções do mouse  
+time.sleep(5)  # tempo para o usuário posicionar o mouse
+pyautogui.click(x=1680, y=180) # clique do mouse
+
+
+
+
+
+
+
